@@ -16,7 +16,7 @@ The project serves as a vital resource for Sintec's executive team, offering dat
 
 ![Sintec Competitor Analysis Dashboard](page_1.png)
 ![Sintec Competitor Analysis Dashboard2](page_2.png)
-![Sintec Competitor Analysis Dataset](datastructure.png)
+![Sintec Competitor Analysis Dataset](data_structure.png)
 
 The analysis is based on a dataset of 70K+ sales records, providing insights into market share, growth rates, and competitive positioning across 6 countries over a 5-year period (2017-2021). This project was visualized in a comprehensive Power BI dashboard and revealed key insights into how Sintec performs against major competitors. The analysis shows that Sintec holds a **19.63% overall market share** across all regions, with total revenue of **$71.2M** and demonstrates strong growth trajectory with notable performance variations across different geographic markets and product categories.
 
